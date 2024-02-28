@@ -1,0 +1,699 @@
+,Brand,Color,Touchscreen,Display_size_inches,Operating System,Processor Core,Internal Storage,Primary Camera,Secondary Camera Available,Wi-Fi,Battery Capacity,SmartPhone,X_res,Y_res,Processor,5G,price
+0,APPLE,Any Color,1,6.1,Ios,6,128.0,12.0,1,1,3240,1,2532,1170,Bionic Chip,1,52499
+1,POCO,Any Color,1,6.52,Android 13,8,64.0,50.0,1,1,5000,1,1600,720,Helio,0,6499
+2,OnePlus,Any Color,1,6.59,Android 13,8,128.0,64.0,1,1,5000,1,2412,1080,Bionic Chip,1,17196
+3,realme,Any Color,1,6.72,Android 13,8,128.0,64.0,1,1,5000,1,2400,1080,Dimensity,1,15999
+4,realme,Any Color,1,6.72,Android 13,8,128.0,64.0,1,1,5000,1,2400,1080,Dimensity,1,14999
+5,POCO,Any Color,1,6.71,Android 12,8,128.0,50.0,1,1,5000,1,1650,720,Helio,0,8499
+6,APPLE,Any Color,1,6.1,Ios,6,128.0,12.0,1,1,3240,1,2532,1170,Bionic Chip,1,52499
+7,POCO,Any Color,1,6.52,Android 13,8,64.0,50.0,1,1,5000,1,1600,720,Helio,0,6499
+8,vivo,Any Color,1,6.58,Android 13,8,128.0,50.0,1,1,5000,1,2408,1080,Dimensity,1,12999
+9,MOTOROLA,Any Color,1,6.55,Android 13,8,256.0,50.0,1,1,5000,1,2400,1080,Snapdragon,1,19999
+10,vivo,Any Color,1,6.58,Android 13,8,128.0,50.0,1,1,5000,1,2408,1080,Dimensity,1,12999
+11,realme,Any Color,1,6.72,Android 13,8,128.0,64.0,1,1,5000,1,2400,1080,Dimensity,1,15999
+12,vivo,Any Color,1,6.58,Android 13,8,128.0,50.0,1,1,5000,1,2408,1080,Dimensity,1,12999
+13,vivo,Any Color,1,6.58,Android 13,8,128.0,50.0,1,1,5000,1,2408,1080,Dimensity,1,13999
+14,OnePlus,Any Color,1,6.72,Android 13,8,128.0,108.0,1,1,5000,1,2400,1080,Bionic Chip,1,19999
+15,vivo,Any Color,1,6.58,Android 13,8,128.0,50.0,1,1,5000,1,2408,1080,Dimensity,1,13999
+16,POCO,Any Color,1,6.71,Android 12,8,128.0,50.0,1,1,5000,1,1650,720,Helio,0,8499
+17,vivo,Any Color,1,6.58,Android 13,8,128.0,50.0,1,1,5000,1,2408,1080,Dimensity,1,15999
+18,POCO,Any Color,1,6.52,Android 13,8,64.0,50.0,1,1,5000,1,1600,720,Helio,0,5999
+19,REDMI,Any Color,1,6.79,Android 13,8,128.0,50.0,1,1,5000,1,2460,1080,Helio,0,9999
+20,vivo,Any Color,1,6.58,Android 13,8,128.0,50.0,1,1,5000,1,2408,1080,Dimensity,1,15999
+21,POCO,Any Color,1,6.71,Android 12,8,128.0,50.0,1,1,5000,1,1650,720,Helio,0,8499
+22,vivo,Any Color,1,6.58,Android 13,8,128.0,50.0,1,1,5000,1,2408,1080,Dimensity,1,15999
+23,Infinix,Any Color,1,6.6,Android 12,8,64.0,13.0,1,1,6000,1,1612,720,Qualcomm,0,7499
+24,MOTOROLA,Any Color,1,6.5,Android 13,8,128.0,50.0,1,1,5000,1,1600,720,Helio,0,9999
+25,APPLE,Any Color,1,6.1,Ios,6,128.0,12.0,1,1,3240,1,2532,1170,Bionic Chip,1,52499
+26,vivo,Any Color,1,6.58,Android 13,8,128.0,50.0,1,1,5000,1,2408,1080,Dimensity,1,13999
+27,Infinix,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,8399
+28,Infinix,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,8399
+29,MOTOROLA,Any Color,1,6.5,Android 13,8,128.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,18999
+30,Infinix,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,9499
+31,Infinix,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,8399
+32,Infinix,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,9499
+33,APPLE,Blue,1,6.1,Ios,6,128.0,12.0,1,1,3240,1,2532,1170,Bionic Chip,1,52499
+34,Infinix,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,9499
+35,realme,Any Color,1,6.74,Android 13,8,64.0,108.0,1,1,5000,1,1600,720,Qualcomm,0,10999
+36,vivo,Any Color,1,6.78,Android 13,8,128.0,64.0,1,1,5000,1,2400,1080,Snapdragon,1,26999
+37,Infinix,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,9499
+38,realme,Any Color,1,6.7,Android 13,8,256.0,200.0,1,1,5000,1,2412,1080,Dimensity,1,29999
+39,MOTOROLA,Any Color,1,6.55,Android 13,8,256.0,50.0,1,1,5000,1,2400,1080,Snapdragon,1,19999
+40,POCO,Any Color,1,6.71,Android 12,8,64.0,50.0,1,1,5000,1,1650,720,Helio,0,7499
+41,POCO,Any Color,1,6.71,Android 12,8,64.0,50.0,1,1,5000,1,1650,720,Helio,0,7499
+42,POCO,Any Color,1,6.79,Android 13,8,128.0,50.0,1,1,5000,1,2460,1080,Snapdragon,1,12999
+43,vivo,Any Color,1,6.78,Android 13,8,128.0,64.0,1,1,5000,1,2400,1080,Snapdragon,1,26999
+44,vivo,Any Color,1,6.78,Android 13,8,256.0,64.0,1,1,5000,1,2400,1080,Snapdragon,1,28999
+45,realme,Any Color,1,6.74,Android 13,8,128.0,108.0,1,1,5000,1,1600,720,Qualcomm,0,9999
+46,realme,Any Color,1,6.74,Android 13,8,128.0,108.0,1,1,5000,1,1600,720,Qualcomm,0,9999
+47,REDMI,Any Color,1,6.52,Android 13,8,64.0,50.0,1,1,5000,1,2160,1080,Bionic Chip,0,6900
+48,REDMI,Any Color,1,6.52,Android 13,8,64.0,50.0,1,1,5000,1,2160,1080,Bionic Chip,0,6799
+49,MOTOROLA,Any Color,1,6.5,Android 13,8,128.0,50.0,1,1,5000,1,2400,1080,Qualcomm,0,9999
+50,realme,Any Color,1,6.74,Android 13,8,64.0,108.0,1,1,5000,1,1600,720,Qualcomm,0,10999
+51,REDMI,Any Color,1,6.52,Android 13,8,64.0,50.0,1,1,5000,1,2160,1080,Bionic Chip,0,6806
+52,MOTOROLA,Any Color,1,6.5,Android 13,8,64.0,13.0,1,1,5000,1,1600,720,Qualcomm,0,7999
+53,MOTOROLA,Any Color,1,6.5,Android 13,8,256.0,50.0,1,1,4400,1,2400,1080,Dimensity,1,29999
+54,realme,Any Color,1,6.7,Android 13,8,256.0,200.0,1,1,5000,1,2412,1080,Dimensity,1,27999
+56,REDMI,Any Color,1,6.52,Android 13,8,32.0,50.0,1,1,5000,1,2160,1080,Bionic Chip,0,7129
+57,SAMSUNG,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,6000,1,2408,1080,Exynos,0,10999
+58,MOTOROLA,Any Color,1,6.5,Android 12,8,64.0,50.0,1,1,5000,1,1600,720,Helio,0,8999
+59,Infinix,Any Color,1,6.78,Android 13,8,128.0,108.0,1,1,5000,1,2460,1080,Dimensity,1,14999
+60,REDMI,Any Color,1,6.52,Android 13,8,64.0,50.0,1,1,5000,1,2160,1080,Bionic Chip,0,6746
+61,MOTOROLA,Any Color,1,6.5,Android 13,8,256.0,50.0,1,1,6000,1,2400,1080,Dimensity,1,18999
+62,OPPO,Any Color,1,6.7,Android 13,8,256.0,64.0,1,1,5000,1,2412,1080,Dimensity,1,32999
+63,OPPO,Any Color,1,6.7,Android 13,8,256.0,64.0,1,1,5000,1,2412,1080,Dimensity,1,32999
+64,APPLE,Blue,1,6.1,Ios,6,128.0,12.0,1,1,3279,1,2532,1170,Bionic Chip,1,64999
+65,POCO,Any Color,1,6.79,Android 13,8,64.0,50.0,1,1,5000,1,2460,1080,Snapdragon,1,10999
+66,REDMI,Any Color,1,6.79,Android 13,8,128.0,50.0,1,1,5000,1,2460,1080,Bionic Chip,1,14497
+67,REDMI,Any Color,1,6.79,Android 13,8,128.0,50.0,1,1,5000,1,2460,1080,Bionic Chip,1,14475
+68,APPLE,Any Color,1,6.1,Ios,6,128.0,48.0,1,1,5000,1,2556,1179,Bionic Chip,1,79900
+69,realme,Any Color,1,6.7,Android 13,8,256.0,100.0,1,1,5000,1,2412,1080,Dimensity,1,27999
+70,APPLE,Black,1,6.1,Ios,8,128.0,12.0,1,1,3110,1,1792,828,Bionic Chip,0,40999
+71,MOTOROLA,Any Color,1,6.5,Android 13,8,128.0,50.0,1,1,6000,1,2400,1080,Dimensity,1,15999
+72,OnePlus,Any Color,1,6.72,Android 13,8,256.0,108.0,1,1,5000,1,2400,1080,Bionic Chip,1,21990
+73,OnePlus,Any Color,1,6.72,Android 13,8,128.0,108.0,1,1,5000,1,2400,1080,Bionic Chip,1,19989
+74,SAMSUNG,Any Color,0,2.0,Android,1,128.0,0.3,0,0,800,0,128,160,Qualcomm,0,2499
+75,MOTOROLA,Any Color,1,6.5,Android 13,8,128.0,50.0,1,1,6000,1,2400,1080,Dimensity,1,15999
+76,OnePlus,Any Color,1,6.59,Android,8,128.0,64.0,1,1,5000,1,2412,1080,Bionic Chip,1,17341
+77,Infinix,Any Color,1,6.78,Android 13,8,256.0,108.0,1,1,5000,1,2460,1080,Dimensity,1,15999
+78,APPLE,Any Color,1,6.1,Ios,6,128.0,12.0,1,1,3279,1,2532,1170,Bionic Chip,1,64999
+79,realme,Any Color,1,6.7,Android 13,8,256.0,200.0,1,1,5000,1,2412,1080,Dimensity,1,27999
+80,Infinix,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,6199
+81,MOTOROLA,Any Color,1,6.5,Android 13,8,128.0,50.0,1,1,5000,1,2400,1080,Qualcomm,0,9999
+83,realme,Any Color,1,6.7,Android 13,8,256.0,200.0,1,1,5000,1,2412,1080,Dimensity,1,29999
+84,Infinix,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,6199
+85,Infinix,Any Color,1,6.78,Android 13,8,128.0,108.0,1,1,5000,1,2460,1080,Dimensity,1,14999
+86,SAMSUNG,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,6000,1,1080,2408,Bionic Chip,1,14665
+87,Infinix,Any Color,1,6.78,Android 13,8,128.0,108.0,1,1,5000,1,2460,1080,Dimensity,1,14999
+88,MOTOROLA,Any Color,1,6.5,Android 13,8,256.0,50.0,1,1,6000,1,2400,1080,Dimensity,1,18999
+89,Infinix,Any Color,1,6.78,Android 13,8,256.0,108.0,1,1,5000,1,2460,1080,Dimensity,1,15999
+90,MOTOROLA,Any Color,1,6.5,Android 13,8,128.0,50.0,1,1,5000,1,2400,1080,Qualcomm,0,9999
+91,MOTOROLA,Any Color,1,6.55,Android 13,8,256.0,50.0,1,1,5000,1,2400,1080,Snapdragon,1,19999
+92,MOTOROLA,Any Color,1,6.5,Android 13,8,128.0,13.0,1,1,5000,1,1600,720,Qualcomm,0,8999
+93,MOTOROLA,Any Color,1,6.5,Android 13,8,256.0,50.0,1,1,6000,1,2400,1080,Dimensity,1,18999
+94,Infinix,Any Color,1,6.78,Android 13,8,256.0,108.0,1,1,5000,1,2460,1080,Dimensity,1,15999
+95,POCO,Any Color,1,6.58,Android 12,8,64.0,50.0,1,1,5000,1,2400,1080,Helio,0,8499
+96,realme,Any Color,1,6.7,Android 13,8,128.0,100.0,1,1,5000,1,2412,1080,Dimensity,1,23999
+99,SAMSUNG,Any Color,0,2.0,Android,1,128.0,0.3,0,0,800,0,128,160,Qualcomm,0,2890
+100,POCO,Any Color,1,6.67,Android 12,8,128.0,108.0,1,1,5000,1,2400,1080,Snapdragon,1,19999
+101,MOTOROLA,Any Color,1,6.5,Android 13,8,64.0,13.0,1,1,5000,1,1600,720,Qualcomm,0,6999
+102,SAMSUNG,Any Color,0,2.0,Android 12,8,128.0,13.0,1,1,800,0,128,160,Bionic Chip,0,2880
+103,MOTOROLA,Any Color,1,6.5,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Snapdragon,0,11999
+104,POCO,Any Color,1,6.43,Android,8,128.0,64.0,1,1,5000,1,2400,1080,Helio,0,11499
+105,Infinix,Any Color,1,6.78,Android 13,8,128.0,50.0,1,1,6000,1,2460,1080,Dimensity,1,12499
+106,REDMI,Any Color,1,6.67,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,23999
+107,REDMI,Any Color,1,6.79,Android 13,8,128.0,50.0,1,1,5000,1,1080,2460,Bionic Chip,1,13227
+109,POCO,Any Color,1,6.67,Android 12,8,128.0,48.0,1,1,5000,1,2400,1080,Snapdragon,1,14999
+110,OPPO,Any Color,1,6.43,Android,8,128.0,64.0,1,1,4500,1,2400,1080,Bionic Chip,0,18778
+111,POCO,Any Color,1,6.67,Android 12,8,128.0,48.0,1,1,5000,1,2400,1080,Snapdragon,1,14999
+113,OnePlus,Any Color,1,6.7,Android 13,8,256.0,50.0,1,1,5000,1,1080,2412,Bionic Chip,1,28839
+114,POCO,Any Color,1,6.67,Android 12,8,256.0,48.0,1,1,5000,1,2400,1080,Snapdragon,1,16999
+115,Infinix,Any Color,1,6.78,Android 13,8,128.0,50.0,1,1,6000,1,2460,1080,Dimensity,1,13499
+116,OPPO,Any Color,1,6.56,Android 13,8,128.0,50.0,1,1,5000,1,1612,720,Qualcomm,1,18999
+117,POCO,Any Color,1,6.67,Android 12,8,256.0,108.0,1,1,5000,1,2400,1080,Snapdragon,1,21999
+118,REDMI,Any Color,1,6.79,Android 13,8,256.0,50.0,1,1,5000,1,1080,2460,Bionic Chip,1,16445
+119,OPPO,Any Color,1,6.56,Android 13,8,128.0,50.0,1,1,5000,1,1612,720,Qualcomm,1,18999
+120,realme,Any Color,1,6.72,Android 13,8,128.0,108.0,1,1,5000,1,2400,1080,Snapdragon,1,17999
+121,OnePlus,Any Color,1,6.7,Android 13,8,128.0,50.0,1,1,5000,1,2772,1240,Bionic Chip,1,39988
+122,POCO,Any Color,1,6.58,Android 12,8,64.0,50.0,1,1,5000,1,2400,1080,Helio,0,8499
+123,MOTOROLA,Any Color,1,6.5,Android 13,8,64.0,13.0,1,1,5000,1,1600,720,Qualcomm,0,7999
+124,realme,Any Color,1,6.72,Android 13,8,128.0,108.0,1,1,5000,1,2400,1080,Snapdragon,1,17999
+125,MOTOROLA,Any Color,1,6.67,Android 12,8,256.0,200.0,1,1,4610,1,2400,1080,Snapdragon,1,59999
+126,OnePlus,Any Color,1,6.7,Android 13,8,256.0,50.0,1,1,5000,1,2772,1240,Bionic Chip,1,44995
+127,APPLE,Any Color,1,6.1,Ios,6,128.0,12.0,1,1,3279,1,2532,1170,Bionic Chip,1,64999
+128,APPLE,Any Color,1,6.1,Ios,6,128.0,12.0,1,1,3279,1,2532,1170,Bionic Chip,1,64999
+131,OnePlus,Any Color,1,6.7,Android 13,8,128.0,50.0,1,1,5000,1,2772,1240,Bionic Chip,1,39779
+132,POCO,Any Color,1,6.52,Android 12,8,32.0,50.0,1,1,5000,1,1600,720,Helio,0,6299
+134,POCO,Any Color,1,6.43,Android,8,128.0,64.0,1,1,5000,1,2400,1080,Helio,0,12999
+135,REDMI,Any Color,1,6.79,Android 13,8,256.0,50.0,1,1,5000,1,1080,2460,Bionic Chip,1,16347
+136,MOTOROLA,Any Color,1,6.5,Android 13,8,128.0,50.0,1,1,5000,1,2400,1080,Qualcomm,0,9999
+137,realme,Any Color,1,6.74,Android 13,8,128.0,108.0,1,1,5000,1,1600,720,Qualcomm,0,11999
+138,realme,Any Color,1,6.74,Android 13,8,128.0,108.0,1,1,5000,1,1600,720,Qualcomm,0,11999
+139,APPLE,Any Color,1,6.1,Ios,6,128.0,12.0,1,1,3240,1,2532,1170,Bionic Chip,1,52499
+140,REDMI,Any Color,1,6.79,Android 13,8,256.0,50.0,1,1,5000,1,1080,2460,Bionic Chip,1,16697
+142,Google,Any Color,1,6.14,Android 12,8,128.0,12.2,1,1,4410,1,2400,1080,Qualcomm,1,43999
+143,realme,Any Color,1,6.72,Android 13,8,128.0,108.0,1,1,5000,1,2400,1080,Dimensity,1,18999
+144,Google,Any Color,1,6.14,Android 12,8,128.0,12.2,1,1,4410,1,2400,1080,Qualcomm,1,43999
+145,realme,Any Color,1,6.72,Android 13,8,256.0,108.0,1,1,5000,1,2400,1080,Dimensity,1,19999
+146,realme,Any Color,1,6.7,Android 13,8,256.0,100.0,1,1,5000,1,2412,1080,Dimensity,1,27999
+147,Infinix,Any Color,1,6.78,Android 13,8,128.0,50.0,1,1,6000,1,2460,1080,Dimensity,1,13499
+148,realme,Any Color,1,6.72,Android 13,8,128.0,108.0,1,1,5000,1,2400,1080,Dimensity,1,18999
+149,Infinix,Any Color,1,6.78,Android 13,8,128.0,50.0,1,1,6000,1,2460,1080,Dimensity,1,12499
+150,REDMI,Any Color,1,6.58,Android 12,8,128.0,50.0,1,1,5000,1,2408,1080,Helio,0,10999
+152,realme,Any Color,1,6.72,Android 13,8,256.0,108.0,1,1,5000,1,2400,1080,Dimensity,1,19999
+155,Infinix,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,6199
+156,SAMSUNG,Any Color,1,6.5,Android 12,8,64.0,13.0,1,1,5000,1,720,1600,Helio,0,8127
+157,realme,Any Color,1,6.7,Android 13,8,128.0,100.0,1,1,5000,1,2412,1080,Dimensity,1,23999
+158,Infinix,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,6199
+159,realme,Any Color,1,6.7,Android 13,8,256.0,100.0,1,1,5000,1,2412,1080,Dimensity,1,24999
+161,realme,Any Color,1,6.7,Android 13,8,128.0,100.0,1,1,5000,1,2412,1080,Dimensity,1,23999
+162,vivo,Any Color,1,6.38,Android 13,8,128.0,64.0,1,1,4500,1,2400,1080,Snapdragon,1,20999
+163,MOTOROLA,Any Color,1,6.5,Android 13,8,64.0,13.0,1,1,5000,1,1600,720,Qualcomm,0,6999
+164,Infinix,Any Color,1,6.78,Android 13,8,128.0,50.0,1,1,6000,1,2460,1080,Dimensity,1,12499
+165,REDMI,Any Color,1,6.71,Android 12,8,128.0,50.0,1,1,5000,1,1650,720,Helio,0,8425
+166,REDMI,Any Color,1,6.71,Android 12,8,128.0,50.0,1,1,5000,1,1650,720,Helio,0,8462
+167,REDMI,Any Color,1,6.71,Android 12,8,128.0,50.0,1,1,5000,1,1650,720,Helio,0,8501
+168,APPLE,Black,1,6.1,Ios,8,64.0,12.0,1,1,3110,1,1792,828,Bionic Chip,0,37999
+169,realme,Any Color,1,6.72,Android 13,8,128.0,108.0,1,1,5000,1,2400,1080,Snapdragon,1,16999
+170,POCO,Any Color,1,6.58,Android 12,8,64.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,10999
+171,SAMSUNG,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,6000,1,2408,1080,Exynos,1,14990
+172,POCO,Any Color,1,6.58,Android 12,8,64.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,10999
+173,POCO,Any Color,1,6.58,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,12999
+174,REDMI,Any Color,1,6.71,Android 12,8,128.0,50.0,1,1,5000,1,1650,720,Helio,0,8435
+175,OnePlus,Any Color,1,6.7,Android 13,8,256.0,50.0,1,1,5000,1,1080,2412,Bionic Chip,1,28979
+176,REDMI,Any Color,1,6.67,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,23999
+178,MOTOROLA,Any Color,1,6.5,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Snapdragon,0,11999
+179,realme,Any Color,1,6.72,Android 13,8,128.0,108.0,1,1,5000,1,2400,1080,Snapdragon,1,17999
+180,realme,Any Color,1,6.72,Android 13,8,128.0,108.0,1,1,5000,1,2400,1080,Snapdragon,1,16999
+181,APPLE,Any Color,1,6.1,Ios,8,64.0,12.0,1,1,3110,1,1792,828,Bionic Chip,0,37999
+182,REDMI,Black,1,6.52,Android 12,4,32.0,50.0,1,1,5000,1,1600,720,Helio,0,6299
+183,APPLE,Blue,1,6.7,Ios,6,128.0,48.0,1,1,5000,1,2796,1290,Bionic Chip,1,89900
+184,APPLE,Any Color,1,6.7,Ios,6,256.0,48.0,1,1,5000,1,2796,1290,Qualcomm,1,159900
+186,APPLE,Blue,1,6.1,Ios,6,128.0,48.0,1,1,3000,1,2556,1179,Bionic Chip,1,79900
+187,OnePlus,Any Color,1,6.72,Android 13,8,256.0,108.0,1,1,5000,1,2400,1080,Bionic Chip,1,21499
+188,SAMSUNG,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,6000,1,1080,2408,Bionic Chip,1,14890
+189,REDMI,Any Color,1,6.52,Android 12,4,32.0,50.0,1,1,5000,1,1600,720,Helio,0,6599
+190,MOTOROLA,Any Color,1,6.5,Android 13,8,128.0,13.0,1,1,5000,1,1600,720,Qualcomm,0,8999
+191,SAMSUNG,Black,0,2.0,Android 12,8,0.0,50.0,0,1,800,0,128,160,Qualcomm,0,2199
+192,SAMSUNG,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,6000,1,1080,2408,Bionic Chip,1,13839
+193,realme,Any Color,1,6.7,Android 13,8,256.0,100.0,1,1,5000,1,2412,1080,Dimensity,1,27999
+194,itel,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,1612,720,Bionic Chip,0,6985
+195,SAMSUNG,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,2408,1080,Snapdragon,1,16999
+196,OnePlus,Any Color,1,6.72,Android 13,8,256.0,108.0,1,1,5000,1,2400,1080,Bionic Chip,1,21249
+197,APPLE,Any Color,1,6.1,Ios,6,256.0,12.0,1,1,5000,1,2532,1170,Bionic Chip,1,61499
+199,REDMI,Any Color,1,6.52,Android 13,8,32.0,50.0,1,1,5000,1,2160,1080,Bionic Chip,0,7130
+200,REDMI,Any Color,1,6.67,Android 13,8,128.0,50.0,1,1,5000,1,2400,1080,Snapdragon,0,14999
+201,APPLE,Any Color,1,6.1,Ios,6,256.0,12.0,1,1,3240,1,2532,1170,Bionic Chip,1,61499
+203,MOTOROLA,Any Color,1,6.5,Android 13,8,256.0,50.0,1,1,4400,1,2400,1080,Dimensity,1,29999
+204,OnePlus,Any Color,1,6.7,Android 13,8,128.0,50.0,1,1,5000,1,2772,1240,Bionic Chip,1,39491
+205,REDMI,Any Color,1,6.67,Android 13,8,64.0,50.0,1,1,5000,1,2400,1080,Snapdragon,0,12999
+206,APPLE,Any Color,1,6.1,Ios,6,256.0,12.0,1,1,3240,1,2532,1170,Bionic Chip,1,61499
+207,APPLE,Any Color,1,6.1,Ios,8,64.0,12.0,1,1,2815,1,2532,1170,Bionic Chip,1,48999
+208,MOTOROLA,Any Color,1,6.5,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Snapdragon,0,11999
+210,MOTOROLA,Any Color,1,6.5,Android 13,8,128.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,18999
+211,OPPO,Any Color,1,6.56,Android 12,8,64.0,50.0,1,1,5000,1,1612,720,Helio,0,11999
+212,REDMI,Any Color,1,6.67,Android 13,8,64.0,50.0,1,1,5000,1,2400,1080,Snapdragon,0,12999
+213,SAMSUNG,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,6000,1,2408,1080,Exynos,1,14990
+214,Infinix,Any Color,1,6.78,Android 12,8,128.0,50.0,1,1,5000,1,2460,1080,Dimensity,1,17999
+215,REDMI,Any Color,1,6.71,Android 12,8,128.0,50.0,1,1,5000,1,1650,720,Helio,0,9898
+216,REDMI,Any Color,1,6.71,Android 12,8,128.0,50.0,1,1,5000,1,1650,720,Bionic Chip,0,9717
+217,OnePlus,Any Color,1,6.7,Android 13,8,256.0,50.0,1,1,5000,1,2772,1240,Bionic Chip,1,44949
+219,APPLE,Black,1,6.1,Ios,6,256.0,48.0,1,1,1450,1,2556,1179,Bionic Chip,1,89900
+220,REDMI,Any Color,1,6.67,Android 12,8,128.0,48.0,1,1,5000,1,2400,1080,Snapdragon,1,18999
+221,SAMSUNG,Any Color,1,6.5,Android 13,8,128.0,50.0,1,1,6000,1,2340,1080,Bionic Chip,1,19000
+223,REDMI,Any Color,1,6.67,Android 12,8,128.0,48.0,1,1,5000,1,2400,1080,Snapdragon,1,18999
+224,POCO,Any Color,1,6.58,Android 12,8,64.0,50.0,1,1,5000,1,2400,1080,Helio,0,8499
+226,realme,Any Color,1,6.74,Android 13,8,128.0,50.0,1,1,5000,1,2400,1080,Bionic Chip,0,11449
+227,SAMSUNG,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,2408,1080,Snapdragon,1,16999
+228,SAMSUNG,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,6000,1,2408,1080,Exynos,1,13990
+229,REDMI,Any Color,1,6.71,Android 12,8,128.0,50.0,1,1,5000,1,1650,720,Helio,0,9799
+230,Infinix,Any Color,1,6.78,Android 12,8,128.0,50.0,1,1,5000,1,2460,1080,Dimensity,1,24999
+231,REDMI,Any Color,1,6.67,Android 12,8,256.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,26999
+232,realme,Any Color,1,6.72,Android 13,8,128.0,64.0,1,1,5000,1,2400,1080,Helio,0,13999
+233,realme,Any Color,1,6.72,Android 13,8,128.0,64.0,1,1,5000,1,2400,1080,Helio,0,13999
+234,APPLE,Any Color,1,6.7,Ios,6,128.0,12.0,1,1,4323,1,2778,1284,Bionic Chip,1,73999
+236,Infinix,Any Color,1,6.78,Android 12,8,128.0,50.0,1,1,5000,1,2460,1080,Dimensity,1,17999
+237,Infinix,Any Color,1,6.7,Android,8,128.0,50.0,1,1,5000,1,2400,1080,Helio,0,12999
+239,realme,Any Color,1,6.72,Android 13,8,128.0,64.0,1,1,5000,1,2400,1080,Helio,0,13999
+243,REDMI,Any Color,1,6.67,Android 13,8,64.0,50.0,1,1,5000,1,2400,1080,Snapdragon,0,12999
+244,APPLE,Any Color,1,6.7,Ios,6,128.0,48.0,1,1,5000,1,2796,1290,Bionic Chip,1,89900
+245,SAMSUNG,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,6000,1,2408,1080,Exynos,0,10999
+246,POCO,Any Color,1,6.58,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Helio,0,10499
+247,realme,Any Color,1,6.72,Android 13,8,64.0,64.0,1,1,5000,1,2400,1080,Helio,0,10999
+248,REDMI,Any Color,1,6.67,Android 12,8,256.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,26999
+249,Tecno,Any Color,1,6.56,Android 12,4,64.0,13.0,1,1,5000,1,1612,720,Bionic Chip,0,7685
+250,realme,Any Color,1,6.72,Android 13,8,64.0,64.0,1,1,5000,1,2400,1080,Helio,0,10999
+251,SAMSUNG,Any Color,0,2.0,Android 12,8,128.0,64.0,1,1,800,0,128,160,Bionic Chip,0,2880
+252,MOTOROLA,Any Color,1,6.55,Android 12,8,128.0,50.0,1,1,4400,1,2400,1080,Snapdragon,1,42999
+253,POCO,Any Color,1,6.58,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,12999
+254,realme,Any Color,1,6.72,Android 13,8,64.0,64.0,1,1,5000,1,2400,1080,Helio,0,10999
+255,APPLE,Blue,1,6.1,Ios,6,256.0,12.0,1,1,5000,1,2532,1170,Bionic Chip,1,61499
+257,SAMSUNG,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,6000,1,1080,2408,Bionic Chip,1,13679
+258,REDMI,Any Color,1,6.67,Android 12,8,128.0,48.0,1,1,5000,1,2400,1080,Snapdragon,1,16999
+259,realme,Any Color,1,6.72,Android 13,8,64.0,64.0,1,1,5000,1,2400,1080,Helio,0,11999
+260,POCO,Any Color,1,6.67,Android 12,8,256.0,108.0,1,1,5000,1,2400,1080,Snapdragon,1,21999
+261,Nokia,Black,0,2.8,Android 12,8,0.125,0.3,0,0,1450,0,2400,1080,Bionic Chip,0,4499
+262,OnePlus,Any Color,1,6.74,Android 13,8,256.0,50.0,1,1,5000,1,1240,2772,Bionic Chip,1,37200
+263,Tecno,Any Color,1,6.56,Android 12,1,64.0,13.0,1,1,5000,1,720,1600,Qualcomm,0,7995
+264,REDMI,Any Color,1,6.67,Android 12,8,256.0,200.0,1,1,4980,1,2400,1080,Dimensity,1,29999
+265,REDMI,Any Color,1,6.67,Android 12,8,256.0,48.0,1,1,5000,1,2400,1080,Snapdragon,1,20999
+266,KARBONN,Any Color,1,2.6,Android 12,8,128.0,1.3,0,0,1800,0,240,320,Bionic Chip,0,1288
+267,APPLE,Any Color,1,6.1,Ios,6,128.0,48.0,1,1,1800,1,2556,1179,Qualcomm,1,134900
+268,OnePlus,Any Color,1,6.7,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Bionic Chip,1,27965
+269,POCO,Any Color,1,6.67,Android 12,8,256.0,48.0,1,1,5000,1,2400,1080,Snapdragon,1,16999
+270,realme,Any Color,1,6.4,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Helio,0,13999
+271,REDMI,Any Color,1,6.58,Android 12,8,128.0,50.0,1,1,5000,1,2408,1080,Helio,0,10999
+273,realme,Any Color,1,6.4,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Helio,0,13999
+274,Infinix,Any Color,1,6.7,Android 12,8,64.0,50.0,1,1,5000,1,2400,1080,Helio,0,10999
+275,Infinix,Any Color,1,6.82,Android 12,8,64.0,13.0,1,1,6000,1,720,1640,Qualcomm,0,8999
+276,Infinix,Any Color,1,6.82,Android 12,8,64.0,13.0,1,1,6000,1,720,1640,Qualcomm,0,8999
+277,KARBONN,Any Color,0,2.6,Android,1,128.0,50.0,0,0,1800,0,240,320,Bionic Chip,0,1293
+278,Infinix,Any Color,1,6.82,Android 12,8,64.0,13.0,1,1,6000,1,720,1640,Qualcomm,0,8999
+280,APPLE,Any Color,1,6.1,Ios,6,128.0,12.0,1,1,3279,1,2532,1170,Bionic Chip,1,64999
+282,OPPO,Any Color,1,6.7,Android 13,8,256.0,50.0,1,1,4600,1,2412,1080,Snapdragon,1,39999
+283,SAMSUNG,Any Color,1,6.5,Android 13,8,128.0,50.0,1,1,6000,1,2340,1080,Exynos,1,24499
+285,Infinix,Any Color,1,6.82,Android 12,8,64.0,13.0,1,1,6000,1,720,1640,Qualcomm,0,8999
+286,KARBONN,Black,1,2.4,Android 12,8,128.0,13.0,1,1,1800,0,240,320,Qualcomm,0,1375
+287,Infinix,Any Color,1,6.7,Android,8,128.0,50.0,1,1,5000,1,2400,1080,Helio,0,12999
+288,OPPO,Any Color,1,6.72,Android 13,8,128.0,50.0,1,1,5000,1,2400,1080,Helio,0,14999
+290,REDMI,Any Color,1,6.67,Android 12,8,128.0,48.0,1,1,5000,1,2400,1080,Snapdragon,1,18999
+292,POCO,Any Color,1,6.52,Android 13,8,128.0,50.0,1,1,5000,1,1600,720,Helio,0,8499
+293,APPLE,Any Color,1,6.7,Ios,6,128.0,48.0,1,1,4323,1,2796,1290,Bionic Chip,1,127999
+295,OPPO,Any Color,1,6.72,Android 13,8,128.0,50.0,1,1,5000,1,2400,1080,Helio,0,14999
+296,realme,Any Color,1,6.7,Android 13,8,128.0,108.0,1,1,5000,1,2412,1080,Dimensity,1,22999
+298,realme,Any Color,1,6.72,Android 13,8,128.0,64.0,1,1,5000,1,1080,2400,Bionic Chip,0,12579
+299,REDMI,Any Color,1,6.67,Android 12,8,128.0,48.0,1,1,5000,1,2400,1080,Snapdragon,1,18999
+300,OnePlus,Any Color,1,6.7,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Bionic Chip,1,27900
+304,APPLE,Black,1,6.1,Ios,8,64.0,12.0,1,1,2815,1,2532,1170,Bionic Chip,1,48999
+305,OPPO,Any Color,1,6.43,Android 12,8,128.0,64.0,1,1,4500,1,2400,1080,Snapdragon,0,17397
+309,APPLE,Any Color,1,6.1,Ios,8,64.0,12.0,1,1,950,1,2532,1170,Bionic Chip,1,48999
+311,SAMSUNG,Any Color,1,6.5,Android 12,8,64.0,50.0,1,1,5000,1,720,1600,Bionic Chip,1,12080
+312,MOTOROLA,Any Color,1,16.51,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Snapdragon,1,16999
+313,REDMI,Any Color,1,6.7,Android,8,64.0,50.0,1,1,6000,1,1650,720,Snapdragon,0,10510
+315,MOTOROLA,Any Color,1,6.55,Android 12,8,128.0,50.0,1,1,4400,1,2400,1080,Snapdragon,1,42999
+316,SAMSUNG,Black,1,6.6,Android 13,8,128.0,50.0,1,1,5000,1,2408,1080,Exynos,1,17999
+317,Infinix,Any Color,1,6.67,Android 13,8,256.0,108.0,1,1,5000,1,2400,1080,Qualcomm,1,20999
+318,REDMI,Any Color,1,6.52,Android 13,8,64.0,50.0,1,1,5000,1,1600,720,Bionic Chip,0,7995
+319,realme,Any Color,1,6.7,Android 13,8,128.0,108.0,1,1,5000,1,2412,1080,Dimensity,1,21999
+321,Infinix,Any Color,1,6.67,Android 13,8,256.0,108.0,1,1,5000,1,2400,1080,Qualcomm,1,20999
+322,realme,Any Color,1,6.7,Android 13,8,128.0,108.0,1,1,5000,1,2412,1080,Dimensity,1,21999
+323,OnePlus,Any Color,1,6.7,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Bionic Chip,1,27964
+324,realme,Any Color,1,6.72,Android 13,8,64.0,64.0,1,1,5000,1,1080,2400,Bionic Chip,0,10585
+325,APPLE,Any Color,1,6.1,Ios,8,64.0,12.0,1,1,5000,1,2532,1170,Bionic Chip,1,48999
+327,REDMI,Any Color,1,6.52,Android,8,32.0,50.0,1,1,5000,1,1080,1920,Bionic Chip,0,6349
+328,APPLE,Blue,1,6.7,Ios,6,256.0,12.0,1,1,5000,1,2778,1284,Bionic Chip,1,83999
+329,LAVA,Any Color,1,6.5,Android 12,8,64.0,13.0,1,1,5000,1,720,1600,Helio,0,8149
+331,OnePlus,Any Color,1,6.7,Android 13,8,256.0,50.0,1,1,5000,1,3216,1440,Bionic Chip,1,59390
+333,OnePlus,Any Color,1,6.7,Android 13,8,256.0,50.0,1,1,5000,1,3216,1440,Bionic Chip,1,59840
+334,Tecno,Any Color,1,6.56,Android 12,1,64.0,13.0,1,1,5000,1,720,1600,Bionic Chip,0,7199
+337,SAMSUNG,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,6000,1,1080,2408,Bionic Chip,1,15282
+338,REDMI,Any Color,1,6.52,Android 12,4,32.0,50.0,1,1,5000,1,1600,720,Helio,0,6599
+339,Nokia,Any Color,1,6.517,Android 13,8,64.0,50.0,1,1,5000,1,1600,720,Qualcomm,0,8799
+340,realme,Any Color,1,6.43,Android 13,8,256.0,64.0,1,1,5000,1,2400,1080,Bionic Chip,1,20200
+341,realme,Any Color,1,6.43,Android 13,8,128.0,64.0,1,1,5000,1,2400,1080,Bionic Chip,1,18146
+342,vivo,Any Color,1,6.64,Android 13,8,128.0,50.0,1,1,5000,1,2388,1080,Helio,0,14999
+343,APPLE,Any Color,1,6.1,Ios,6,256.0,48.0,1,1,5000,1,2556,1179,Qualcomm,1,144900
+346,REDMI,Any Color,1,6.67,Android 12,8,256.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,28999
+347,OPPO,Any Color,1,6.56,Android 13,8,128.0,50.0,1,1,5000,1,1612,720,Helio,0,12999
+350,Nokia,Any Color,1,6.517,Android 13,8,64.0,50.0,1,1,5000,1,1600,720,Qualcomm,0,8799
+352,APPLE,Black,1,6.1,Ios,6,128.0,48.0,1,1,3000,1,2556,1179,Bionic Chip,1,79900
+354,REDMI,Any Color,1,6.67,Android 12,8,256.0,48.0,1,1,5000,1,2400,1080,Snapdragon,1,20999
+357,realme,Any Color,1,6.43,Android 13,8,128.0,64.0,1,1,5000,1,2400,1080,Bionic Chip,1,18187
+359,REDMI,Any Color,1,6.52,Android,8,32.0,50.0,1,1,5000,1,1080,1920,Bionic Chip,0,6280
+360,Tecno,Any Color,1,6.67,Android 13,8,256.0,64.0,1,1,5000,1,1080,2400,Bionic Chip,0,15491
+362,REDMI,Any Color,1,6.67,Android 12,8,256.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,26999
+364,realme,Any Color,1,6.7,Android 13,8,128.0,108.0,1,1,5000,1,2412,1080,Dimensity,1,22999
+365,realme,Any Color,1,6.7,Android 13,8,128.0,108.0,1,1,5000,1,2412,1080,Dimensity,1,22999
+366,realme,Any Color,1,6.7,Android 13,8,256.0,108.0,1,1,5000,1,2412,1080,Dimensity,1,24999
+368,realme,Any Color,1,6.7,Android 13,8,256.0,108.0,1,1,5000,1,2412,1080,Dimensity,1,24999
+369,REDMI,Any Color,1,6.67,Android 12,8,128.0,48.0,1,1,5000,1,2400,1080,Snapdragon,1,16999
+370,POCO,Any Color,1,6.67,Android 13,8,256.0,64.0,1,1,5000,1,2400,1080,Snapdragon,1,26999
+373,realme,Any Color,1,6.7,Android 13,8,256.0,108.0,1,1,5000,1,2412,1080,Dimensity,1,24999
+374,SAMSUNG,Any Color,1,6.1,Android 13,8,256.0,50.0,1,1,3900,1,2340,1080,Snapdragon,1,79999
+376,realme,Any Color,1,6.72,Android 13,8,128.0,64.0,1,1,5000,1,1080,2400,Bionic Chip,0,12469
+379,realme,Any Color,1,6.5,Android 12,8,32.0,50.0,1,1,5000,1,1600,720,Qualcomm,0,6999
+380,APPLE,Any Color,1,6.1,Ios,6,128.0,12.0,1,1,3279,1,2532,1170,Bionic Chip,1,64999
+384,vivo,Any Color,1,6.64,Android 13,8,128.0,50.0,1,1,5000,1,2388,1080,Helio,0,14999
+385,Tecno,Any Color,1,6.56,Android 12,8,32.0,13.0,1,1,5000,1,720,1600,Bionic Chip,0,6689
+387,vivo,Any Color,1,6.56,Android 12,8,128.0,108.0,1,1,4300,1,2376,1080,Dimensity,1,29390
+388,SAMSUNG,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,6000,1,2408,1080,Exynos,0,11999
+389,OnePlus,Any Color,1,6.7,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Bionic Chip,1,27964
+393,POCO,Any Color,1,6.67,Android 13,8,256.0,64.0,1,1,5000,1,2400,1080,Snapdragon,1,26999
+394,SAMSUNG,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,6000,1,720,2408,Bionic Chip,0,13000
+395,SAMSUNG,Black,0,1.5,Android 12,8,128.0,0.3,0,0,800,0,128,128,Qualcomm,0,1150
+397,MOTOROLA,Any Color,1,6.55,Android 12,8,128.0,50.0,1,1,4020,1,2460,1080,Snapdragon,1,26999
+398,vivo,Any Color,1,6.78,Android 13,8,256.0,50.0,1,1,4600,1,2400,1080,Dimensity,1,36999
+400,OPPO,Any Color,1,6.56,Android 12,8,64.0,50.0,1,1,5000,1,1612,720,Helio,0,11999
+402,SAMSUNG,Any Color,1,6.5,Android 12,8,64.0,13.0,1,1,5000,1,1600,720,Helio,0,8499
+403,REDMI,Any Color,1,6.67,Android 12,8,128.0,48.0,1,1,5000,1,2400,1080,Snapdragon,1,16999
+404,POCO,Any Color,1,6.67,Android 12,8,128.0,108.0,1,1,5000,1,2400,1080,Snapdragon,1,19999
+405,vivo,Any Color,1,6.78,Android 13,8,256.0,50.0,1,1,4600,1,2400,1080,Dimensity,1,36999
+406,realme,Any Color,1,6.7,Android 13,8,128.0,108.0,1,1,5000,1,2412,1080,Dimensity,1,21999
+407,APPLE,Any Color,1,6.1,Ios,8,128.0,12.0,1,1,2815,1,2532,1170,Bionic Chip,1,51999
+408,OnePlus,Any Color,1,6.7,Android 13,8,128.0,50.0,1,1,5000,1,3216,1440,Bionic Chip,1,54997
+410,OnePlus,Any Color,1,6.74,Android 13,8,256.0,50.0,1,1,5000,1,1240,2772,Bionic Chip,1,37800
+415,Tecno,Any Color,1,6.56,Android 12,8,32.0,13.0,1,1,5000,1,720,1600,Bionic Chip,0,6350
+417,SAMSUNG,Any Color,1,6.5,Android 12,8,64.0,13.0,1,1,5000,1,720,1600,Helio,0,8184
+418,OPPO,Any Color,1,6.56,Android 13,8,128.0,50.0,1,1,5000,1,1612,720,Helio,0,12999
+421,REDMI,Any Color,1,6.71,Android 12,8,64.0,50.0,1,1,5000,1,1650,720,Bionic Chip,0,8798
+424,Tecno,Any Color,1,6.67,Android 13,8,256.0,64.0,1,1,5000,1,1080,2400,Helio,0,14998
+425,APPLE,Any Color,1,4.7,Ios,6,64.0,12.0,1,1,5000,1,1334,750,Bionic Chip,1,32699
+427,REDMI,Any Color,1,6.71,Android 12,8,128.0,50.0,1,1,5000,1,1650,720,Bionic Chip,0,9620
+428,REDMI,Any Color,1,6.58,Android 12,8,128.0,50.0,1,1,5000,1,2408,1080,Helio,0,10999
+431,REDMI,Any Color,1,6.6,Android 12,8,256.0,64.0,1,1,5080,1,2460,1080,Dimensity,1,23999
+432,SAMSUNG,Any Color,1,6.5,Android 13,8,128.0,50.0,1,1,6000,1,2340,1080,Exynos,1,21999
+433,OnePlus,Any Color,1,6.7,Android 13,8,256.0,50.0,1,1,5000,1,3216,1440,Bionic Chip,1,60245
+434,IQOO,Any Color,1,6.4,Android 13,8,128.0,64.0,1,1,4500,1,2400,1080,Bionic Chip,1,20399
+437,POCO,Any Color,1,6.67,Android 12,8,256.0,48.0,1,1,5000,1,2400,1080,Snapdragon,1,16999
+438,OPPO,Any Color,1,6.43,Android,8,128.0,64.0,1,1,4500,1,2400,1080,Snapdragon,1,22110
+439,Tecno,Any Color,1,6.56,Android 12,8,64.0,12.0,1,1,5000,1,1612,720,Bionic Chip,0,6540
+440,MOTOROLA,Any Color,1,6.55,Android 12,8,128.0,50.0,1,1,4020,1,2460,1080,Snapdragon,1,26999
+441,REDMI,Any Color,1,6.67,Android 12,8,256.0,200.0,1,1,4980,1,2400,1080,Dimensity,1,32999
+442,APPLE,Any Color,1,6.7,Ios,6,1000.0,48.0,1,1,4980,1,2796,1290,Qualcomm,1,199900
+443,POCO,Any Color,1,6.58,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Helio,0,10499
+445,POCO,Any Color,1,6.58,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Helio,0,10499
+446,APPLE,Any Color,1,6.1,Ios,8,64.0,12.0,1,1,2815,1,2532,1170,Bionic Chip,1,48999
+449,OnePlus,Any Color,1,6.74,Android 13,8,256.0,50.0,1,1,5000,1,1240,2772,Bionic Chip,1,37199
+451,POCO,Any Color,1,6.52,Android 13,8,128.0,50.0,1,1,5000,1,1600,720,Helio,0,8499
+452,REDMI,Any Color,1,6.67,Android 12,8,256.0,200.0,1,1,4980,1,2400,1080,Dimensity,1,32999
+455,realme,Any Color,1,6.74,Android 13,8,128.0,50.0,1,1,5000,1,2400,1080,Bionic Chip,0,11686
+457,vivo,Any Color,1,6.51,Android 13,8,64.0,50.0,1,1,5000,1,1600,720,Helio,0,8999
+458,vivo,Any Color,1,6.51,Android 13,8,64.0,50.0,1,1,5000,1,1600,720,Helio,0,8999
+459,SAMSUNG,Any Color,1,6.5,Android 13,8,128.0,50.0,1,1,6000,1,2340,1080,Bionic Chip,1,19035
+461,REDMI,Any Color,1,6.67,Android 12,8,256.0,48.0,1,1,5000,1,2400,1080,Snapdragon,1,20999
+462,OPPO,Any Color,1,6.7,Android 13,8,256.0,50.0,1,1,4600,1,2412,1080,Snapdragon,1,39999
+463,MOTOROLA,Any Color,1,6.67,Android 12,8,256.0,200.0,1,1,4610,1,2400,1080,Snapdragon,1,59999
+464,realme,Any Color,1,6.4,Android 12,8,64.0,50.0,1,1,5000,1,2400,1080,Helio,0,11999
+465,realme,Any Color,1,6.74,Android 13,8,128.0,50.0,1,1,5000,1,2400,1080,Bionic Chip,0,11687
+466,Infinix,Any Color,1,6.7,Android 12,8,64.0,50.0,1,1,5000,1,2400,1080,Helio,0,10999
+469,APPLE,Any Color,1,6.7,Ios,6,128.0,12.0,1,1,4323,1,2778,1284,Bionic Chip,1,73999
+470,SAMSUNG,Any Color,1,6.5,Android 13,8,128.0,50.0,1,1,6000,1,2340,1080,Exynos,1,21999
+472,Infinix,Any Color,1,6.7,Android,8,64.0,50.0,1,1,5000,1,2400,1080,Helio,0,11999
+476,APPLE,Any Color,1,6.7,Ios,6,128.0,12.0,1,1,4323,1,2778,1284,Bionic Chip,1,73999
+479,realme,Any Color,1,6.74,Android 13,8,64.0,50.0,1,1,5000,1,2400,1080,Bionic Chip,0,9585
+481,REDMI,Any Color,1,6.67,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,23999
+483,OnePlus,Any Color,1,6.74,Android 13,8,128.0,50.0,1,1,5000,1,1240,2772,Bionic Chip,1,31479
+484,SAMSUNG,Any Color,1,6.5,Android 13,8,128.0,50.0,1,1,6000,1,2340,1080,Exynos,1,24499
+485,SAMSUNG,Any Color,1,6.5,Android 12,8,64.0,13.0,1,1,5000,1,720,1600,Helio,0,8049
+486,OnePlus,Any Color,1,6.74,Android 13,8,128.0,50.0,1,1,5000,1,1240,2772,Bionic Chip,1,31427
+487,realme,Any Color,1,6.4,Android 12,8,64.0,50.0,1,1,5000,1,2400,1080,Helio,0,11999
+488,REDMI,Any Color,1,6.67,Android 12,8,256.0,200.0,1,1,4980,1,2400,1080,Dimensity,1,29999
+489,APPLE,Any Color,1,6.1,Ios,6,128.0,12.0,1,1,4980,1,2532,1170,Bionic Chip,1,52499
+490,REDMI,Any Color,1,6.52,Android 12,4,32.0,50.0,1,1,5000,1,1600,720,Helio,0,6299
+491,SAMSUNG,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,6000,1,2408,1080,Exynos,1,13990
+492,POCO,Any Color,1,6.71,Android 12,8,64.0,50.0,1,1,5000,1,1650,720,Helio,0,7499
+493,POCO,Any Color,1,6.58,Android 12,8,64.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,10999
+494,realme,Any Color,1,6.72,Android 13,8,128.0,108.0,1,1,5000,1,2400,1080,Snapdragon,1,16999
+495,POCO,Any Color,1,6.43,Android,8,64.0,64.0,1,1,5000,1,2400,1080,Helio,0,14999
+496,MOTOROLA,Any Color,1,6.5,Android 13,8,128.0,13.0,1,1,5000,1,1600,720,Qualcomm,0,8999
+497,SAMSUNG,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,6000,1,2408,1080,Exynos,0,11999
+498,realme,Any Color,1,6.74,Android 13,8,64.0,50.0,1,1,5000,1,2400,1080,Bionic Chip,0,9798
+500,REDMI,Any Color,1,6.67,Android 13,8,128.0,50.0,1,1,5000,1,2400,1080,Snapdragon,0,14999
+501,POCO,Any Color,1,6.67,Android 12,8,128.0,48.0,1,1,5000,1,2400,1080,Snapdragon,1,14999
+502,OnePlus,Any Color,1,6.7,Android 13,8,128.0,50.0,1,1,5000,1,2772,1240,Bionic Chip,1,39226
+503,REDMI,Any Color,1,6.52,Android 13,8,32.0,50.0,1,1,5000,1,2160,1080,Bionic Chip,0,7050
+506,APPLE,Any Color,1,6.1,Ios,6,256.0,12.0,1,1,3240,1,2532,1170,Bionic Chip,1,61499
+507,APPLE,Blue,1,6.1,Ios,8,64.0,12.0,1,1,2815,1,2532,1170,Bionic Chip,1,48999
+508,SAMSUNG,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,6000,1,1080,2408,Bionic Chip,1,14200
+509,SAMSUNG,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,2408,1080,Snapdragon,1,16999
+510,itel,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,1612,720,Bionic Chip,0,6985
+511,REDMI,Any Color,1,6.67,Android 12,8,256.0,200.0,1,1,4980,1,2400,1080,Dimensity,1,29999
+512,MOTOROLA,Any Color,1,6.5,Android 13,8,256.0,50.0,1,1,4400,1,2400,1080,Dimensity,1,29999
+514,IQOO,Any Color,1,6.68,Android 12,4,128.0,50.0,1,1,5000,1,2400,1080,Bionic Chip,1,15280
+516,POCO,Any Color,1,6.67,Android 12,8,128.0,108.0,1,1,5000,1,2400,1080,Snapdragon,1,19999
+517,POCO,Any Color,1,6.67,Android 12,8,256.0,108.0,1,1,5000,1,2400,1080,Snapdragon,1,21999
+518,POCO,Any Color,1,6.52,Android 12,8,32.0,50.0,1,1,5000,1,1600,720,Helio,0,6299
+519,POCO,Any Color,1,6.43,Android,8,128.0,64.0,1,1,5000,1,2400,1080,Helio,0,12999
+520,SAMSUNG,Black,0,2.0,Android,8,128.0,64.0,1,1,800,0,128,160,Bionic Chip,0,2449
+521,SAMSUNG,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,6000,1,2408,1080,Exynos,1,14990
+522,SAMSUNG,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,6000,1,2408,1080,Exynos,0,10999
+523,POCO,Any Color,1,6.58,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,12999
+524,vivo,Any Color,1,6.38,Android 13,8,128.0,64.0,1,1,4500,1,2400,1080,Snapdragon,1,18999
+525,vivo,Any Color,1,6.38,Android 13,8,128.0,64.0,1,1,4500,1,2400,1080,Snapdragon,1,20999
+526,vivo,Any Color,1,6.78,Android 13,8,128.0,50.0,1,1,4600,1,2400,1080,Dimensity,1,32999
+527,SAMSUNG,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,6000,1,1080,2408,Bionic Chip,1,14654
+528,vivo,Any Color,1,6.38,Android 13,8,128.0,64.0,1,1,4500,1,2400,1080,Snapdragon,1,18999
+529,REDMI,Any Color,1,6.79,Android 13,8,128.0,50.0,1,1,5000,1,2460,1080,Helio,0,11499
+530,Infinix,Any Color,1,6.78,Android 13,8,128.0,50.0,1,1,6000,1,2460,1080,Dimensity,1,13499
+531,vivo,Any Color,1,6.78,Android 13,8,128.0,50.0,1,1,4600,1,2400,1080,Dimensity,1,32999
+532,OnePlus,Any Color,1,6.7,Android 13,8,128.0,50.0,1,1,5000,1,1080,2412,Bionic Chip,1,26450
+533,realme,Any Color,1,6.7,Android 13,8,256.0,200.0,1,1,5000,1,2412,1080,Dimensity,1,27999
+534,POCO,Any Color,1,6.79,Android 13,8,128.0,50.0,1,1,5000,1,2460,1080,Snapdragon,1,11999
+535,MOTOROLA,Any Color,1,6.5,Android 13,8,128.0,50.0,1,1,6000,1,2400,1080,Dimensity,1,15999
+536,OnePlus,Any Color,1,6.7,Android 13,8,128.0,50.0,1,1,5000,1,1080,2412,Bionic Chip,1,26696
+537,realme,Any Color,1,6.7,Android 13,8,256.0,100.0,1,1,5000,1,2412,1080,Dimensity,1,24999
+538,POCO,Any Color,1,6.79,Android 13,8,128.0,50.0,1,1,5000,1,2460,1080,Snapdragon,1,12999
+539,realme,Any Color,1,6.7,Android 13,8,256.0,200.0,1,1,5000,1,2412,1080,Dimensity,1,29999
+540,APPLE,Blue,1,6.7,Ios,6,128.0,12.0,1,1,4323,1,2778,1284,Bionic Chip,1,73999
+541,realme,Any Color,1,6.7,Android 13,8,256.0,100.0,1,1,5000,1,2412,1080,Dimensity,1,24999
+542,vivo,Any Color,1,6.78,Android 13,8,256.0,64.0,1,1,5000,1,2400,1080,Snapdragon,1,28999
+543,MOTOROLA,Any Color,1,6.5,Android 13,8,64.0,13.0,1,1,5000,1,1600,720,Qualcomm,0,6999
+544,POCO,Any Color,1,6.79,Android 13,8,128.0,50.0,1,1,5000,1,2460,1080,Snapdragon,1,11999
+545,POCO,Any Color,1,6.52,Android 12,8,32.0,50.0,1,1,5000,1,1600,720,Helio,0,5499
+546,REDMI,Any Color,1,6.52,Android 13,8,64.0,50.0,1,1,5000,1,2160,1080,Bionic Chip,0,7240
+547,REDMI,Any Color,1,6.79,Android 13,8,128.0,50.0,1,1,5000,1,2460,1080,Helio,0,11499
+548,Infinix,Any Color,1,6.6,Android 12,8,128.0,13.0,1,1,6000,1,1612,720,Qualcomm,0,7799
+549,MOTOROLA,Any Color,1,6.5,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Snapdragon,0,11999
+550,POCO,Any Color,1,6.79,Android 13,8,64.0,50.0,1,1,5000,1,2460,1080,Snapdragon,1,10999
+551,Infinix,Any Color,1,6.6,Android 12,8,128.0,13.0,1,1,6000,1,1612,720,Qualcomm,0,7799
+552,realme,Any Color,1,6.74,Android 13,8,64.0,50.0,1,1,5000,1,1600,720,Qualcomm,0,8999
+553,REDMI,Any Color,1,6.79,Android 13,8,128.0,50.0,1,1,5000,1,2460,1080,Helio,0,11499
+554,POCO,Any Color,1,6.52,Android 13,8,64.0,50.0,1,1,5000,1,1600,720,Helio,0,5999
+555,Infinix,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,8399
+556,MOTOROLA,Any Color,1,6.5,Android 13,8,64.0,13.0,1,1,5000,1,1600,720,Qualcomm,0,7999
+557,realme,Any Color,1,6.74,Android 13,8,64.0,50.0,1,1,5000,1,1600,720,Qualcomm,0,8999
+558,Infinix,Any Color,1,6.6,Android 12,8,64.0,13.0,1,1,6000,1,1612,720,Qualcomm,0,9999
+559,POCO,Any Color,1,6.52,Android 12,8,32.0,50.0,1,1,5000,1,1600,720,Helio,0,5499
+560,MOTOROLA,Any Color,1,6.5,Android 12,8,64.0,50.0,1,1,5000,1,1600,720,Helio,0,8999
+561,Infinix,Any Color,1,6.6,Android 12,8,64.0,13.0,1,1,6000,1,1612,720,Qualcomm,0,9999
+562,realme,Any Color,1,6.72,Android 13,8,128.0,64.0,1,1,5000,1,2400,1080,Dimensity,1,14999
+563,REDMI,Any Color,1,6.79,Android 13,8,128.0,50.0,1,1,5000,1,2460,1080,Helio,0,9999
+564,REDMI,Any Color,1,6.79,Android 13,8,128.0,50.0,1,1,5000,1,2460,1080,Helio,0,9999
+565,Infinix,Any Color,1,6.6,Android 12,8,128.0,13.0,1,1,6000,1,1612,720,Qualcomm,0,7799
+566,SAMSUNG,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,6000,1,1080,2400,Bionic Chip,1,17399
+567,SAMSUNG,Any Color,1,6.5,Android 12,8,64.0,13.0,1,1,5000,1,1600,720,Helio,0,8499
+568,REDMI,Any Color,1,6.6,Android 12,8,256.0,64.0,1,1,5080,1,2460,1080,Dimensity,1,23999
+569,realme,Any Color,1,6.5,Android 12,8,32.0,50.0,1,1,5000,1,1600,720,Qualcomm,0,6999
+570,SAMSUNG,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,6000,1,2408,1080,Exynos,1,13990
+572,SAMSUNG,Any Color,1,6.7,Android,8,128.0,64.0,1,1,7000,1,2400,1080,Exynos,0,19990
+573,APPLE,Any Color,1,6.1,Ios,6,128.0,48.0,1,1,3200,1,2556,1179,Bionic Chip,1,119900
+574,APPLE,Any Color,1,6.1,Ios,8,128.0,12.0,1,1,3200,1,2532,1170,Bionic Chip,1,51999
+575,realme,Any Color,1,6.74,Android 13,8,64.0,50.0,1,1,5000,1,2400,1080,Bionic Chip,0,9770
+576,Tecno,Any Color,1,6.56,Android 12,8,32.0,13.0,1,1,5000,1,720,1600,Qualcomm,0,6795
+577,REDMI,Any Color,1,6.52,Android 13,8,64.0,50.0,1,1,5000,1,1600,720,Bionic Chip,0,8499
+578,IQOO,Any Color,1,6.68,Android 12,4,128.0,50.0,1,1,5000,1,2400,1080,Bionic Chip,1,14990
+581,Infinix,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,5000,1,1080,2408,Dimensity,1,13208
+582,Infinix,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,5000,1,1080,2408,Dimensity,1,13208
+583,realme,Any Color,1,6.5,Android 12,8,64.0,50.0,1,1,5000,1,1600,720,Qualcomm,0,8499
+584,APPLE,Black,1,6.1,Ios,8,128.0,12.0,1,1,5000,1,2532,1170,Bionic Chip,1,51999
+585,SAMSUNG,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,5000,1,2408,1080,Exynos,1,19999
+588,realme,Any Color,1,6.74,Android 13,8,128.0,50.0,1,1,5000,1,2400,1080,Bionic Chip,0,11583
+589,REDMI,Any Color,1,6.67,Android 12,8,256.0,48.0,1,1,5000,1,2400,1080,Snapdragon,1,20999
+590,realme,Any Color,1,6.5,Android 12,8,64.0,50.0,1,1,5000,1,1600,720,Qualcomm,0,8499
+591,MOTOROLA,Any Color,1,6.55,Android 12,8,128.0,50.0,1,1,4400,1,2400,1080,Snapdragon,1,42999
+593,itel,Any Color,1,6.6,Android 12,8,32.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,5989
+594,REDMI,Any Color,1,6.67,Android 12,8,256.0,200.0,1,1,4980,1,2400,1080,Dimensity,1,32999
+596,APPLE,Any Color,1,6.7,Ios,6,256.0,48.0,1,1,5000,1,2796,1290,Bionic Chip,1,99900
+597,APPLE,Any Color,1,6.7,Ios,6,128.0,48.0,1,1,5000,1,2796,1290,Bionic Chip,1,127999
+599,SAMSUNG,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,6000,1,720,2408,Bionic Chip,0,13000
+606,itel,Any Color,1,6.6,Android 12,8,32.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,5897
+608,itel,Any Color,1,6.6,Android 12,6,32.0,13.0,1,1,6000,1,1612,720,Bionic Chip,0,6599
+609,APPLE,Any Color,1,4.7,Ios,6,64.0,12.0,1,1,6000,1,1334,750,Bionic Chip,1,32699
+610,APPLE,Any Color,1,6.7,Ios,6,512.0,12.0,1,1,6000,1,2778,1284,Bionic Chip,1,109999
+611,Infinix,Any Color,1,6.8,Android 12,8,256.0,200.0,1,1,4500,1,2400,1080,Dimensity,1,36999
+612,Infinix,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,5000,1,1080,2408,Dimensity,1,13208
+613,itel,Any Color,1,6.6,Android,8,64.0,13.0,1,1,6000,1,1612,720,Bionic Chip,0,6965
+617,REDMI,Any Color,1,6.52,Android 12,8,32.0,50.0,1,1,5000,1,1600,720,Helio,0,6476
+618,itel,Any Color,1,6.6,Android 12,6,32.0,13.0,1,1,6000,1,1612,720,Bionic Chip,0,6599
+620,REDMI,Any Color,1,6.52,Android 12,8,32.0,50.0,1,1,5000,1,1600,720,Helio,0,6699
+622,OPPO,Any Color,1,6.74,Android 13,8,256.0,50.0,1,1,4700,1,2772,1240,Snapdragon,1,54999
+623,Nothing,Any Color,1,6.7,Android 13,8,512.0,50.0,1,1,4700,1,2412,1080,Snapdragon,1,54999
+624,KARBONN,Black,1,1.8,Android 12,8,128.0,0.3,1,0,1000,0,128,160,Bionic Chip,0,949
+628,MOTOROLA,Any Color,1,6.5,Android 13,8,128.0,50.0,1,1,5000,1,1600,720,Helio,0,9999
+631,Tecno,Any Color,1,6.56,Android 12,8,64.0,12.0,1,1,5000,1,1612,720,Bionic Chip,0,7490
+633,SAMSUNG,Any Color,1,6.6,Android 13,8,256.0,48.0,1,1,5000,1,1080,2340,Dimensity,1,30999
+634,itel,Any Color,1,6.52,Android,8,32.0,50.0,1,1,5000,1,1600,720,Qualcomm,0,6283
+636,Nothing,Any Color,1,6.7,Android 13,8,128.0,50.0,1,1,4700,1,2412,1080,Snapdragon,1,44999
+637,vivo,Any Color,1,6.44,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Snapdragon,0,14499
+639,OPPO,Any Color,1,6.56,Android 12,8,64.0,50.0,1,1,5000,1,1612,720,Helio,0,11999
+640,APPLE,Any Color,1,6.1,Ios,6,128.0,48.0,1,1,5000,1,2556,1179,Bionic Chip,1,119900
+641,Tecno,Any Color,1,6.56,Android 12,8,64.0,12.0,1,1,5000,1,1612,720,Bionic Chip,0,7199
+643,APPLE,Any Color,1,6.7,Ios,6,128.0,48.0,1,1,4323,1,2796,1290,Bionic Chip,1,127999
+644,Tecno,Any Color,1,6.9,Android 12,8,64.0,50.0,1,1,7000,1,1080,2460,Helio,0,10598
+646,OPPO,Any Color,1,6.7,Android 13,8,128.0,108.0,1,1,4800,1,2412,1080,Snapdragon,1,29999
+650,APPLE,Any Color,1,6.1,Ios,6,256.0,48.0,1,1,3600,1,2556,1179,Qualcomm,1,144900
+651,SAMSUNG,Any Color,1,6.7,Android,8,128.0,12.0,1,1,3300,1,2640,1080,Snapdragon,1,95999
+652,OnePlus,Any Color,1,6.7,Android 13,8,128.0,50.0,1,1,5000,1,2772,1240,Bionic Chip,1,39688
+654,vivo,Any Color,1,6.56,Android 12,8,256.0,108.0,1,1,4300,1,2376,1080,Dimensity,1,33980
+659,POCO,Any Color,1,6.67,Android 13,8,256.0,64.0,1,1,5000,1,2400,1080,Snapdragon,1,30999
+661,OnePlus,Any Color,1,6.7,Android 13,8,256.0,50.0,1,1,5000,1,3216,1440,Bionic Chip,1,59838
+663,REDMI,Any Color,1,6.67,Android 12,8,256.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,28999
+665,vivo,Any Color,1,6.44,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Snapdragon,0,17999
+666,SAMSUNG,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,6000,1,2400,1080,Bionic Chip,0,10639
+667,Infinix,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,1080,2408,Dimensity,1,15321
+668,OPPO,Any Color,1,6.74,Android 13,8,256.0,50.0,1,1,4700,1,2772,1240,Snapdragon,1,54999
+670,Infinix,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,1080,2408,Dimensity,1,15321
+671,APPLE,Any Color,1,6.1,Ios,6,512.0,12.0,1,1,5000,1,2532,1170,Bionic Chip,1,99999
+674,APPLE,Any Color,1,6.7,Ios,6,512.0,48.0,1,1,800,1,2796,1290,Qualcomm,1,179900
+675,Infinix,Any Color,1,6.7,Android 12,8,128.0,108.0,1,1,4500,1,2400,1080,Qualcomm,0,17999
+676,SAMSUNG,Any Color,1,6.5,Android 12,8,64.0,50.0,1,1,5000,1,1600,720,Helio,0,14999
+677,SAMSUNG,Any Color,1,6.4,Android 13,8,256.0,50.0,1,1,5000,1,2340,1080,Exynos,1,38999
+680,REDMI,Black,1,6.52,Android,8,32.0,50.0,1,1,5000,1,1080,1920,Bionic Chip,0,6490
+686,Infinix,Any Color,1,6.78,Android 12,8,256.0,50.0,1,1,5000,1,2460,1080,Dimensity,1,19999
+687,realme,Any Color,1,6.43,Android 13,8,256.0,64.0,1,1,5000,1,2400,1080,Bionic Chip,1,19987
+689,Tecno,Any Color,1,6.56,Android 12,4,32.0,13.0,1,1,5000,1,1612,720,Helio,0,6999
+690,APPLE,Any Color,1,6.1,Ios,6,128.0,48.0,1,1,5000,1,2556,1179,Bionic Chip,1,119900
+692,LAVA,Any Color,0,1.77,Android 12,8,0.0,0.3,1,0,1750,0,128,160,Bionic Chip,0,1387
+694,Tecno,Any Color,1,6.67,Android 13,8,128.0,64.0,1,1,5000,1,1080,2400,Dimensity,1,19837
+697,vivo,Any Color,1,6.56,Android 12,8,128.0,108.0,1,1,4300,1,2376,1080,Dimensity,1,26899
+699,IQOO,Any Color,1,6.78,Android 13,8,256.0,64.0,1,1,5000,1,2400,1080,Dimensity,1,32699
+700,Tecno,Any Color,1,6.6,Android 13,2,128.0,50.0,1,1,5000,1,1612,720,Bionic Chip,0,9899
+701,APPLE,Blue,1,6.1,Ios,6,256.0,48.0,1,1,5000,1,2556,1179,Bionic Chip,1,89900
+703,Infinix,Any Color,1,6.82,Android,8,64.0,50.0,1,1,6000,1,1640,720,Helio,0,9999
+704,Google,Any Color,1,6.1,Android 13,8,128.0,64.0,1,1,4300,1,2400,1080,Qualcomm,1,43999
+707,Google,Any Color,1,6.1,Android 13,8,128.0,64.0,1,1,4300,1,2400,1080,Qualcomm,1,43999
+708,vivo,Any Color,1,6.78,Android 13,8,256.0,50.0,1,1,4600,1,2400,1080,Dimensity,1,39999
+709,vivo,Any Color,1,6.78,Android 13,8,256.0,50.0,1,1,4600,1,2400,1080,Dimensity,1,42999
+710,APPLE,Any Color,1,6.1,Ios,6,256.0,48.0,1,1,4600,1,2556,1179,Qualcomm,1,144900
+712,SAMSUNG,Any Color,1,6.6,Android 13,8,64.0,50.0,1,1,5000,1,2408,1080,Exynos,1,15999
+713,Infinix,Any Color,1,6.82,Android,8,64.0,50.0,1,1,6000,1,1640,720,Helio,0,9999
+714,realme,Any Color,1,6.7,Android 12,8,256.0,50.0,1,1,5000,1,3216,1440,Snapdragon,1,37999
+717,realme,Any Color,1,6.5,Android,8,32.0,50.0,1,1,5000,1,1600,720,Qualcomm,0,5999
+719,Google,Any Color,1,6.1,Android 13,8,128.0,64.0,1,1,4300,1,2400,1080,Qualcomm,1,43999
+720,APPLE,Any Color,1,6.1,Ios,6,128.0,48.0,1,1,4300,1,2556,1179,Bionic Chip,1,119900
+722,APPLE,Any Color,1,6.1,Ios,6,256.0,12.0,1,1,1000,1,2532,1170,Bionic Chip,1,74999
+726,SAMSUNG,Any Color,1,6.8,Android 12,8,256.0,108.0,1,1,5000,1,3088,1440,Qualcomm,1,85240
+727,Google,Any Color,1,6.1,Android 13,8,128.0,64.0,1,1,4300,1,2400,1080,Qualcomm,1,43999
+730,Nothing,Black,1,6.55,Android 12,8,256.0,50.0,1,1,4500,1,2400,1080,Snapdragon,1,42999
+731,POCO,Any Color,1,6.67,Android 13,8,256.0,64.0,1,1,5000,1,2400,1080,Snapdragon,1,30999
+732,APPLE,Any Color,1,6.7,Ios,6,512.0,12.0,1,1,5000,1,2778,1284,Bionic Chip,1,109999
+733,MOTOROLA,Any Color,1,6.5,Android 13,8,256.0,50.0,1,1,4400,1,2400,1080,Dimensity,1,29999
+735,vivo,Any Color,1,6.58,Android 12,8,128.0,50.0,1,1,5000,1,2408,1080,Snapdragon,0,16290
+736,Infinix,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,1080,2408,Dimensity,1,15321
+737,Nothing,Any Color,1,6.55,Android 12,8,256.0,50.0,1,1,4500,1,2400,1080,Snapdragon,1,42999
+738,Tecno,Any Color,1,6.56,Android 12,8,64.0,13.0,1,1,5000,1,720,1612,Bionic Chip,0,7489
+740,itel,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,1612,720,Bionic Chip,0,7089
+742,REDMI,Any Color,1,6.43,Android,8,64.0,64.0,1,1,5000,1,2400,1080,Helio,0,14999
+745,REDMI,Any Color,1,6.7,Android,8,64.0,50.0,1,1,6000,1,1650,720,Snapdragon,0,10999
+746,Infinix,Any Color,1,6.78,Android 12,8,256.0,50.0,1,1,5000,1,2460,1080,Dimensity,1,19999
+748,realme,Any Color,1,6.5,Android,8,32.0,50.0,1,1,5000,1,1600,720,Qualcomm,0,6499
+749,vivo,Any Color,1,6.44,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Snapdragon,0,17999
+751,REDMI,Any Color,1,6.67,Android,2,128.0,48.0,1,1,5020,1,2400,1080,Bionic Chip,0,12640
+752,vivo,Any Color,1,6.44,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Snapdragon,0,17999
+753,OnePlus,Any Color,1,6.7,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Bionic Chip,1,30490
+755,REDMI,Any Color,1,6.71,Android 12,8,6.0,50.0,1,1,5000,1,1650,720,Bionic Chip,0,10890
+759,APPLE,Any Color,1,6.7,Ios,6,128.0,12.0,1,1,1000,1,2778,1284,Bionic Chip,1,73999
+760,vivo,Any Color,1,6.58,Android 12,8,128.0,50.0,1,1,5000,1,2408,1080,Snapdragon,0,16999
+761,vivo,Any Color,1,6.51,Android 12,8,64.0,13.0,1,1,5000,1,1600,720,Helio,0,10975
+762,SAMSUNG,Any Color,1,6.5,Android 12,8,128.0,13.0,1,1,5000,1,720,1600,Helio,0,8875
+764,Tecno,Any Color,1,6.67,Android 13,8,256.0,64.0,1,1,5000,1,1080,2400,Helio,0,15499
+765,APPLE,Any Color,1,6.7,Ios,6,128.0,48.0,1,1,4323,1,2796,1290,Bionic Chip,1,127999
+766,SAMSUNG,Any Color,1,6.7,Android 13,8,256.0,108.0,1,1,6000,1,2400,1080,Qualcomm,1,29999
+767,realme,Any Color,1,6.62,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Snapdragon,1,24999
+769,REDMI,Any Color,1,6.7,Android 13,8,128.0,50.0,1,1,6000,1,2400,1080,Bionic Chip,0,12599
+770,SAMSUNG,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,6000,1,2408,1080,Exynos,0,11999
+772,IQOO,Any Color,1,6.78,Android 13,8,128.0,64.0,1,1,5000,1,2400,1080,Bionic Chip,1,30998
+775,SAMSUNG,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,6000,1,1080,2408,Bionic Chip,1,15290
+776,APPLE,Any Color,1,6.1,Ios,6,512.0,12.0,1,1,6000,1,2532,1170,Bionic Chip,1,99999
+777,vivo,Any Color,1,6.44,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Snapdragon,0,19999
+778,Infinix,Any Color,1,6.7,Android 12,8,128.0,108.0,1,1,4500,1,2400,1080,Qualcomm,0,17999
+779,realme,Any Color,1,6.62,Android 12,8,256.0,50.0,1,1,5000,1,2400,1080,Snapdragon,1,28999
+780,APPLE,Any Color,1,6.1,Ios,6,128.0,48.0,1,1,5000,1,2556,1179,Bionic Chip,1,79900
+781,APPLE,Any Color,1,6.1,Ios,6,256.0,12.0,1,1,5000,1,2532,1170,Bionic Chip,1,74999
+783,realme,Any Color,1,6.62,Android 12,8,256.0,50.0,1,1,5000,1,2400,1080,Snapdragon,1,28999
+785,REDMI,Any Color,1,6.52,Android 12,4,32.0,50.0,1,1,5000,1,1600,720,Helio,0,6299
+787,IQOO,Any Color,1,6.38,Android 13,8,128.0,64.0,1,1,4500,1,2388,1080,Bionic Chip,1,18990
+789,Infinix,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,10999
+791,REDMI,Any Color,1,6.7,Android,8,128.0,50.0,1,1,6000,1,1650,720,Snapdragon,0,10999
+792,Infinix,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,10999
+793,itel,Any Color,1,6.5,Android 12,8,128.0,50.0,1,1,5000,1,1612,720,Bionic Chip,0,8599
+794,realme,Any Color,1,6.62,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Snapdragon,1,24999
+795,itel,Any Color,1,6.6,Android,8,64.0,13.0,1,1,6000,1,1612,720,Bionic Chip,0,6999
+797,Infinix,Any Color,1,6.7,Android 12,8,128.0,108.0,1,1,5000,1,2400,1080,Dimensity,1,18999
+798,APPLE,Any Color,1,6.1,Ios,8,128.0,12.0,1,1,5000,1,2532,1170,Bionic Chip,1,51999
+799,POCO,Any Color,1,6.53,Android,8,64.0,48.0,1,1,6000,1,2340,1080,Snapdragon,0,10990
+800,Tecno,Any Color,1,6.67,Android 13,8,256.0,64.0,1,1,5000,1,1080,2400,Dimensity,1,21999
+801,APPLE,Any Color,1,4.7,Ios,6,64.0,12.0,1,1,5000,1,1334,750,Bionic Chip,1,32699
+804,SAMSUNG,Any Color,1,6.5,Android,8,32.0,50.0,1,1,5000,1,1600,720,Bionic Chip,0,6794
+805,SAMSUNG,Any Color,1,6.5,Android 12,8,256.0,64.0,1,1,5000,1,2400,1080,Exynos,1,38990
+806,Infinix,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,10999
+808,MOTOROLA,Any Color,1,6.402,Android 12,8,64.0,50.0,1,1,5000,1,2400,1080,Snapdragon,0,9999
+809,APPLE,Any Color,1,6.7,Ios,6,512.0,48.0,1,1,5000,1,2796,1290,Qualcomm,1,179900
+810,Tecno,Any Color,1,6.56,Android 12,4,64.0,13.0,1,1,5000,1,1612,720,Helio,0,7290
+816,vivo,Any Color,1,6.64,Android 13,8,128.0,50.0,1,1,5000,1,2388,1080,Snapdragon,0,15999
+817,vivo,Any Color,1,6.44,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Snapdragon,0,14499
+819,Tecno,Any Color,1,6.67,Android 13,8,256.0,64.0,1,1,5000,1,1080,2400,Dimensity,1,21999
+821,SAMSUNG,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,6000,1,1080,2408,Bionic Chip,1,13880
+822,OPPO,Any Color,1,6.7,Android 13,8,128.0,108.0,1,1,4800,1,2412,1080,Snapdragon,1,29999
+826,SAMSUNG,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,6000,1,1080,2408,Bionic Chip,0,10639
+827,itel,Any Color,1,6.6,Android,8,64.0,13.0,1,1,6000,1,1612,720,Bionic Chip,0,6995
+828,MOTOROLA,Any Color,1,6.4,Android,8,64.0,50.0,1,1,5000,1,2400,1080,Helio,0,11999
+831,OnePlus,Any Color,1,6.7,Android 13,8,256.0,50.0,1,1,5000,1,3216,1440,Bionic Chip,1,59995
+832,Tecno,Any Color,1,6.56,Android 12,4,64.0,13.0,1,1,5000,1,1612,720,Helio,0,7998
+833,REDMI,Any Color,1,6.67,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,24999
+836,Tecno,Any Color,1,6.8,Android,8,128.0,48.0,1,1,5000,1,1080,2460,Helio,0,12890
+841,MOTOROLA,Any Color,1,6.5,Android,8,64.0,48.0,1,1,5000,1,1600,720,Qualcomm,0,8999
+842,SAMSUNG,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,5000,1,2408,1080,Exynos,1,17999
+843,OPPO,Any Color,1,6.43,Android 13,8,128.0,50.0,1,1,5000,1,2400,1080,Snapdragon,0,17499
+845,realme,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,2408,1080,Dimensity,1,16999
+847,Tecno,Any Color,1,6.56,Android 12,4,64.0,13.0,1,1,5000,1,1612,720,Helio,0,7990
+848,MOTOROLA,Any Color,1,6.5,Android 12,8,64.0,16.0,1,1,5000,1,1600,720,Helio,0,8350
+849,itel,Any Color,1,6.6,Android,8,64.0,13.0,1,1,6000,1,1612,720,Bionic Chip,0,6985
+852,vivo,Any Color,1,6.58,Android 13,8,128.0,50.0,1,1,5000,1,2408,1080,Dimensity,1,18999
+853,APPLE,Any Color,1,6.1,Ios,8,128.0,12.0,1,1,3110,1,1792,828,Bionic Chip,0,40999
+856,Kechaoda,Black,0,3.5,Android,8,32.0,0.3,0,0,5000,0,320,240,Bionic Chip,0,1499
+859,Tecno,Any Color,1,6.6,Android 12,8,8.0,16.0,1,1,5000,1,720,1612,Bionic Chip,0,9460
+861,REDMI,Any Color,1,6.71,Android 12,8,64.0,50.0,1,1,5000,1,1650,720,Bionic Chip,0,8890
+862,vivo,Any Color,1,6.64,Android 13,8,128.0,50.0,1,1,5000,1,2388,1080,Snapdragon,0,15999
+863,OPPO,Any Color,1,6.43,Android 13,8,128.0,50.0,1,1,5000,1,2400,1080,Snapdragon,0,17499
+864,Kechaoda,Any Color,0,3.5,Android,8,32.0,0.3,0,0,5000,0,320,240,Bionic Chip,0,1540
+866,Infinix,Any Color,1,6.7,Android 12,8,128.0,108.0,1,1,5000,1,2400,1080,Dimensity,1,18999
+867,Tecno,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,5000,1,1612,720,Bionic Chip,1,13288
+868,REDMI,Any Color,1,6.71,Android 12,8,64.0,50.0,1,1,5000,1,1650,720,Bionic Chip,0,8681
+869,Tecno,Any Color,1,6.67,Android 13,8,128.0,64.0,1,1,5000,1,1080,2400,Dimensity,1,19840
+874,vivo,Any Color,1,6.51,Android 12,8,128.0,13.0,1,1,5000,1,1600,720,Helio,0,11800
+875,vivo,Any Color,1,6.78,Android 13,8,128.0,50.0,1,1,4600,1,2400,1080,Dimensity,1,37999
+876,SAMSUNG,Any Color,1,6.6,Android 12,8,64.0,50.0,1,1,6000,1,720,2408,Bionic Chip,0,10640
+882,APPLE,Any Color,1,6.7,Ios,6,128.0,12.0,1,1,1000,1,2778,1284,Bionic Chip,1,73999
+885,SAMSUNG,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,2408,1080,Snapdragon,1,15999
+886,Infinix,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,12999
+887,SAMSUNG,Any Color,1,6.2,Android 13,8,256.0,50.0,1,1,4400,1,2176,1812,Snapdragon,1,154999
+888,vivo,Any Color,1,6.51,Android 12,4,32.0,50.0,1,1,5000,1,720,1600,Bionic Chip,0,8728
+889,LAVA,Any Color,1,6.5,Android 12,8,64.0,13.0,1,1,5000,1,720,1600,Bionic Chip,0,8299
+890,Infinix,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,12999
+891,Tecno,Any Color,1,6.6,Android 13,8,128.0,50.0,1,1,5000,1,1612,720,Helio,0,10887
+892,REDMI,Any Color,1,6.67,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,24999
+893,IQOO,Any Color,1,6.78,Android 13,8,128.0,64.0,1,1,5000,1,2400,1080,Bionic Chip,1,29999
+897,APPLE,Any Color,1,6.7,Ios,6,256.0,48.0,1,1,1200,1,2796,1290,Bionic Chip,1,99900
+898,Infinix,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,1612,720,Qualcomm,0,12999
+900,REDMI,Any Color,1,6.71,Android 12,8,64.0,50.0,1,1,5000,1,1650,720,Bionic Chip,0,8774
+903,APPLE,Any Color,1,6.7,Ios,6,256.0,12.0,1,1,1200,1,2778,1284,Bionic Chip,1,83999
+904,SAMSUNG,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,5000,1,2408,1080,Snapdragon,1,15999
+905,realme,Any Color,1,6.62,Android 12,8,256.0,50.0,1,1,5000,1,2400,1080,Snapdragon,1,28999
+907,SAMSUNG,Blue,1,6.5,Android,8,64.0,48.0,1,1,5000,1,1600,720,Exynos,0,13990
+909,APPLE,Any Color,1,6.7,Ios,6,256.0,48.0,1,1,800,1,2796,1290,Qualcomm,1,159900
+912,APPLE,Any Color,1,6.7,Ios,6,128.0,12.0,1,1,5000,1,2778,1284,Bionic Chip,1,73999
+916,SAMSUNG,Black,1,6.6,Android 13,8,64.0,50.0,1,1,5000,1,2408,1080,Exynos,1,15999
+917,REDMI,Any Color,1,6.71,Android 12,8,6.0,50.0,1,1,5000,1,1650,720,Bionic Chip,0,9825
+918,REDMI,Any Color,1,6.71,Android 12,8,6.0,50.0,1,1,5000,1,1650,720,Bionic Chip,0,10480
+921,APPLE,Black,1,6.7,Ios,6,128.0,48.0,1,1,850,1,2796,1290,Bionic Chip,1,89900
+922,Infinix,Any Color,1,6.78,Android 12,8,256.0,50.0,1,1,5000,1,2460,1080,Dimensity,1,19999
+925,Infinix,Any Color,1,6.7,Android 12,8,128.0,108.0,1,1,4500,1,2400,1080,Qualcomm,0,17999
+926,Nokia,Any Color,1,6.517,Android 13,8,128.0,50.0,1,1,5000,1,1600,720,Qualcomm,0,9299
+927,IQOO,Any Color,1,6.78,Android 13,8,256.0,50.0,1,1,5000,1,1080,2400,Bionic Chip,1,41960
+928,Infinix,Any Color,1,6.82,Android,8,64.0,50.0,1,1,6000,1,1640,720,Helio,0,9999
+929,Infinix,Any Color,1,6.82,Android,8,64.0,50.0,1,1,6000,1,1640,720,Helio,0,9999
+930,realme,Any Color,1,6.62,Android 12,8,128.0,50.0,1,1,5000,1,2400,1080,Snapdragon,1,24999
+933,APPLE,Any Color,1,6.1,Ios,8,128.0,12.0,1,1,2500,1,2532,1170,Bionic Chip,1,51999
+935,vivo,Any Color,1,6.51,Android 12,8,64.0,13.0,1,1,5000,1,1600,720,Helio,0,10990
+936,APPLE,Any Color,1,6.1,Ios,6,256.0,48.0,1,1,5000,1,2556,1179,Bionic Chip,1,129900
+938,APPLE,Any Color,1,4.7,Ios,6,128.0,12.0,1,1,400,1,1334,750,Bionic Chip,1,36999
+941,SAMSUNG,Any Color,1,6.6,Android 13,8,256.0,48.0,1,1,5000,1,1080,2340,Dimensity,1,30999
+943,SAMSUNG,Any Color,1,6.4,Android 13,8,128.0,50.0,1,1,5000,1,2340,1080,Exynos,1,36999
+946,REDMI,Any Color,1,6.7,Android,8,64.0,50.0,1,1,6000,1,1650,720,Snapdragon,0,10999
+947,APPLE,Blue,1,6.1,Ios,6,256.0,12.0,1,1,6000,1,2532,1170,Bionic Chip,1,74999
+948,IQOO,Any Color,1,6.78,Android 13,8,256.0,64.0,1,1,5000,1,2400,1080,Bionic Chip,1,33995
+951,APPLE,Any Color,1,6.1,Ios,6,256.0,12.0,1,1,1500,1,2532,1170,Bionic Chip,1,74999
+952,REDMI,Any Color,1,6.7,Android 13,8,128.0,50.0,1,1,6000,1,2400,1080,Bionic Chip,0,13499
+953,Tecno,Any Color,1,6.56,Android 12,4,64.0,13.0,1,1,5000,1,1612,720,Helio,0,7930
+956,APPLE,Any Color,1,6.7,Ios,6,256.0,12.0,1,1,1200,1,2778,1284,Bionic Chip,1,83999
+959,realme,Any Color,1,6.72,Android 13,8,64.0,64.0,1,1,5000,1,1080,2400,Bionic Chip,0,10727
+960,REDMI,Any Color,1,6.71,Android 12,8,64.0,50.0,1,1,5000,1,1650,720,Bionic Chip,0,8622
+963,Nokia,Any Color,1,6.5,Android,8,128.0,50.0,1,1,5050,1,1600,720,Qualcomm,0,13499
+964,APPLE,Any Color,1,6.7,Ios,6,256.0,12.0,1,1,5050,1,2778,1284,Bionic Chip,1,83999
+965,APPLE,Any Color,1,6.1,Ios,6,1000.0,12.0,1,1,5050,1,2532,1170,Bionic Chip,1,125999
+966,realme,Any Color,1,6.74,Android 13,8,128.0,50.0,1,1,5000,1,2400,1080,Bionic Chip,0,12398
+968,APPLE,Blue,1,6.1,Ios,8,128.0,12.0,1,1,2815,1,2532,1170,Bionic Chip,1,51999
+969,SAMSUNG,Any Color,1,6.6,Android 13,8,128.0,48.0,1,1,5000,1,1080,2340,Dimensity,1,28999
+971,Tecno,Any Color,1,6.6,Android 12,8,64.0,13.0,1,1,5000,1,720,1600,Bionic Chip,0,8400
+972,Tecno,Any Color,1,6.56,Android 12,1,64.0,13.0,1,1,5000,1,720,1600,Bionic Chip,0,7773
+973,SAMSUNG,Any Color,1,6.6,Android 12,8,128.0,50.0,1,1,6000,1,1080,2400,Bionic Chip,1,17347
+974,REDMI,Any Color,1,6.67,Android 12,8,256.0,50.0,1,1,5000,1,2400,1080,Dimensity,1,28999
+975,SAMSUNG,Any Color,1,6.6,Android 13,8,256.0,48.0,1,1,5000,1,1080,2340,Dimensity,1,30999
+977,POCO,Any Color,1,6.67,Android 13,8,256.0,64.0,1,1,5000,1,2400,1080,Snapdragon,1,30999
+978,IQOO,Any Color,1,6.4,Android 13,8,128.0,64.0,1,1,4500,1,2400,1080,Bionic Chip,1,19970
+979,APPLE,Any Color,1,6.1,Ios,8,128.0,12.0,1,1,4500,1,2532,1170,Bionic Chip,1,51999
+980,Tecno,Any Color,1,6.9,Android 12,8,128.0,50.0,1,1,7000,1,1080,2460,Helio,0,13999
+981,REDMI,Any Color,1,6.43,Android,8,64.0,64.0,1,1,5000,1,2400,1080,Helio,0,12890
+982,vivo,Any Color,1,6.51,Android 12,8,64.0,13.0,1,1,5000,1,1600,720,Helio,0,10699
+983,Tecno,Any Color,1,6.8,Android 12,8,128.0,64.0,1,1,5000,1,1080,2460,Helio,0,14940
