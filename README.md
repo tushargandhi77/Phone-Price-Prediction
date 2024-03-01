@@ -8,7 +8,10 @@ The ubiquitous presence of mobile phones in our daily lives has transformed them
 
 
 ## Screenshots
-
+![Screenshot 2024-03-01 232716](https://github.com/tushargandhi77/Phone-Price-Prediction/assets/104029815/cca0c06c-1212-45e2-94ac-61a05fbfb870)
+![Screenshot 2024-03-01 233011](https://github.com/tushargandhi77/Phone-Price-Prediction/assets/104029815/0df3050e-80b3-4bbb-ac4b-ce6800693a9c)
+![Screenshot 2024-03-01 233110](https://github.com/tushargandhi77/Phone-Price-Prediction/assets/104029815/c589bb80-2577-4c10-95ca-f2d59cee1a68)
+![Screenshot 2024-03-01 233123](https://github.com/tushargandhi77/Phone-Price-Prediction/assets/104029815/0d425c5b-5076-480d-98cc-1e3a94c170c7)
 
 
 
