@@ -6,6 +6,14 @@ The mobile phone market is characterized by relentless innovation and intense co
 
 The ubiquitous presence of mobile phones in our daily lives has transformed them from mere communication devices into powerful, multifaceted tools that seamlessly integrate into various aspects of society. As consumers navigate the vast landscape of mobile devices, the pricing of these gadgets becomes a critical factor, embodying a delicate balance between cutting-edge technology, brand equity, and user-centric features.
 
+## Usage
+To run the app locally, follow these steps:
+1. Clone this repository to your local machine.
+2. Install the required dependencies using `pip install -r requirements.txt`.
+3. Navigate to the directory containing the app files.
+4. Run the Streamlit app using the command `streamlit run app.py`.
+5. Access the app in your web browser at the provided URL.
+
 
 ## Screenshots
 ![Screenshot 2024-03-01 232716](https://github.com/tushargandhi77/Phone-Price-Prediction/assets/104029815/cca0c06c-1212-45e2-94ac-61a05fbfb870)
